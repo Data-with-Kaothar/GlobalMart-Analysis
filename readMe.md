@@ -1,5 +1,7 @@
-GlobalMart Ltd. Supply Chain & Business Performance Analytics
+* GlobalMart Ltd. Supply Chain & Business Performance Analytics
+
 Supply Chain Analytics Capstone Project
+
 📌 Project Overview
 
 This project presents an end-to-end Supply Chain and Business Performance Analytics solution developed for GlobalMart Ltd., a multinational retail and distribution company operating across multiple African markets.
@@ -8,7 +10,7 @@ The objective of the project was to transform raw operational data into meaningf
 
 The dashboards provide stakeholders with actionable insights into operational inefficiencies, financial performance, and opportunities for process improvement.
 
-🎯 Business Problem
+##🎯 Business Problem
 
 Despite experiencing rapid business growth, GlobalMart faces several operational challenges that impact overall performance:
 
@@ -19,15 +21,17 @@ Limited visibility into operational performance due to fragmented reporting syst
 
 This project addresses these challenges by developing interactive dashboards that provide real-time insights for strategic decision-making.
 
-📂 Dataset Overview
+##📂 Dataset Overview
+
 Attribute	Details
+
 Total Records	1,784
 Total Columns	24
 Date Range	2023 – 2024
 Number of Suppliers	13
 Product Categories	10
 Regions	5
-🧹 Data Cleaning & Preparation
+##🧹 Data Cleaning & Preparation
 
 Data cleaning was carried out in Power Query to ensure the dataset was accurate, consistent, and analysis-ready.
 
@@ -43,7 +47,7 @@ Fixed unit price and unit cost inconsistencies.
 Corrected invalid shipping records.
 Validated calculated fields and business logic.
 
-📊 KPI Development
+##📊 KPI Development
 
 The following Key Performance Indicators (KPIs) were developed using DAX:
 
@@ -59,7 +63,7 @@ Profit Margin
 Total Orders
 Average Order Value (AOV)
 
-📈 Dashboard 1: Supply Chain Operations Dashboard
+##📈 Dashboard 1: Supply Chain Operations Dashboard
 Business Objective
 
 Provide operations managers with real-time visibility into delivery performance, inventory management, shipping efficiency, and supplier performance.
@@ -83,16 +87,16 @@ Delivery performance peaked around March 2024.
 
 
 
-📊 Dashboard 2: Business Performance & Profitability Dashboard
+##📊 Dashboard 2: Business Performance & Profitability Dashboard
 Business Objective
 
 Provide executives with an interactive view of revenue performance, profitability, regional contributions, and supplier performance.
 
 Dashboard Preview
 
-📷 ![Business Performance Dashboard](images/Financial.png)
+ 📷![Business Performance Dashboard](images/Financial.png)
 
-Key Visualizations
+##Key Visualizations
 Revenue vs Profit by Product Category
 Profit Margin Across Product Categories
 Regional Revenue Contribution
@@ -108,7 +112,7 @@ QuickShip Co. contributed the highest overall profit.
 Revenue peaked during February, July, and October.
 
 
-📌 Business Recommendations
+##📌 Business Recommendations
 
 Based on the analysis, the following recommendations are proposed:
 
@@ -118,14 +122,15 @@ Strengthen inventory planning to minimize stock shortages and overstocking.
 Enhance packaging and quality control procedures to reduce damaged goods.
 Continue monitoring monthly revenue trends to identify seasonal demand patterns.
 Utilize interactive dashboards for continuous operational and financial performance monitoring.
-🛠 Tools & Technologies
+
+##🛠 Tools & Technologies
 Microsoft Power BI
 Power Query
 DAX (Data Analysis Expressions)
 Data Modeling
 Interactive Dashboard Design
 
-📁 Project Deliverables
+##📁 Project Deliverables
 Data Cleaning using Power Query
 KPI Development with DAX
 Supply Chain Operations Dashboard
