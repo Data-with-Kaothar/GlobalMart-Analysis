@@ -42,6 +42,7 @@ Resolved data type conversion errors.
 Fixed unit price and unit cost inconsistencies.
 Corrected invalid shipping records.
 Validated calculated fields and business logic.
+
 📊 KPI Development
 
 The following Key Performance Indicators (KPIs) were developed using DAX:
@@ -57,6 +58,7 @@ Total Profit
 Profit Margin
 Total Orders
 Average Order Value (AOV)
+
 📈 Dashboard 1: Supply Chain Operations Dashboard
 Business Objective
 
@@ -78,9 +80,8 @@ Express Shipping achieved the highest delivery efficiency.
 Average shipping time across all orders was 8 days.
 Health & Beauty recorded the highest damaged goods rate.
 Delivery performance peaked around March 2024.
-📷 Dashboard Screenshot
 
-Insert Image Here
+
 
 📊 Dashboard 2: Business Performance & Profitability Dashboard
 Business Objective
@@ -105,9 +106,7 @@ East Africa generated the highest revenue.
 Health & Beauty was the most profitable product category.
 QuickShip Co. contributed the highest overall profit.
 Revenue peaked during February, July, and October.
-📷 Dashboard Screenshot
 
-Insert Image Here
 
 📌 Business Recommendations
 
@@ -125,6 +124,7 @@ Power Query
 DAX (Data Analysis Expressions)
 Data Modeling
 Interactive Dashboard Design
+
 📁 Project Deliverables
 Data Cleaning using Power Query
 KPI Development with DAX
