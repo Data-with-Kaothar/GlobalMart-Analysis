@@ -26,7 +26,6 @@
 - [Tools & Technologies](#-tools--technologies)
 - [Skills Demonstrated](#-skills-demonstrated)
 - [Project Deliverables](#-project-deliverables)
-- [Project Gallery](#-project-gallery)
 - [Author](#-author)
 
 ---
@@ -285,7 +284,7 @@ The dashboards were designed to provide an intuitive and interactive user experi
 
 **Data Analyst | Power BI Developer | Business Intelligence Enthusiast**
 
-📧 Email: *your-email@example.com*
+📧 Email: *owolabikaothar2000@gmail.com*
 
 💼 LinkedIn: *https://www.linkedin.com/in/kaotharowolabi/*
 
